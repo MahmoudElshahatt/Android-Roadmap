@@ -75,7 +75,7 @@ You are ready to start your journey with Android but before starting with Androi
 ## Android basics:
 Now you are ready to start programming real Android apps for that you will need a good IDE to help you in your journey and I recommend you use Android studio.
 
-<img src="https://user-images.githubusercontent.com/79477855/192854794-44190269-2157-4bd0-9c3f-272eb4f00afd.jpeg" width="1350" height="550">
+<img src="https://user-images.githubusercontent.com/79477855/192854794-44190269-2157-4bd0-9c3f-272eb4f00afd.jpeg" width="1310" height="550">
 
 We will start with the basics of the basics :sweat_smile:
 

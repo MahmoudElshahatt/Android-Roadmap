@@ -220,7 +220,7 @@ You can follow [Android Developers](https://www.youtube.com/c/AndroidDevelopers)
 
 You can also check [This Site](https://www.raywenderlich.com/android/books?fbclid=IwAR0yqTqcSYWCe1g2pNbhCfuMUlBhWLzTu_xVAutRfgpC3-P2cqhyBjG1R-o) for very important books in Android and Kotlin and other awesome stuff.
 
-### **Feel free to contact me:**
+### **Feel free to contact us:**
 - [Mahmoud Elshahatt](https://www.linkedin.com/in/mahmoudelshahatt/)
 - [Amany Ashraf](https://www.linkedin.com/in/amany-ashraf-hosni/)
 - [Mohanned Elsayed](https://www.linkedin.com/in/msayeh/)

@@ -98,7 +98,7 @@ Then you will learn about making a list of views using Recyclerview
 [this](https://www.youtube.com/playlist?list=PLXjbGq0ERjFrBsFp69NhGzyyupl6R0YdD)
 
 #### `English:`
-- [Check this playlist](https://youtube.com/playlist?list=PL5HLK-oxmU3ptGN9z8qK2nRDsLdJyqitC)
+- [Check this playlist](https://www.youtube.com/playlist?list=PLrnPJCHvNZuCqEyW_LVTM9r6NnyGD4Db8)
 
 
 Then you will need to learn how to reuse portions of your app's UI by using fragments and navigation component.
@@ -200,7 +200,6 @@ Hey, *Android developer*. At this level, you will just learn more and more topic
 * MVI:
   * [Arabic Playlist *Coding with nerds*](https://www.youtube.com/playlist?list=PLXjbGq0ERjFrtwxjYICoXCbHXLTd8qgM-).
   * [English Article](https://www.raywenderlich.com/817602-mvi-architecture-for-android-tutorial-getting-started).
-* Jetpack compose: [Follow this course](https://developer.android.com/courses/pathways/compose) - [This Repository for more content](https://github.com/jetpack-compose/jetpack-compose-awesome).
 * Services.
 * Broadcast reciever.
 * Content provider.
@@ -208,6 +207,32 @@ Hey, *Android developer*. At this level, you will just learn more and more topic
 * Live Data.
 * Firebase auth.
 * Cloud Firestore.
+
+## Very Important Topics
+
+### Retrofit
+  - [Okhttp Interceptors](https://square.github.io/okhttp/features/interceptors/)
+  - [Building your own custom Retrofit adapter](https://medium.com/android-news/building-your-own-retrofit-call-adapter-b198169bab69)
+
+
+ ### Dependency injection with Hilt
+   - [documentation](https://developer.android.com/training/dependency-injection/hilt-android)
+   
+### Testing
+- [Testing types in Android](https://developer.android.com/training/testing/fundamentals)
+- [Unit Test](https://www.youtube.com/watch?v=EkfVL5vCDmo&list=PLQkwcJG4YTCSYJ13G4kVIJ10X5zisB2Lq)
+- [Unit Test talk](https://www.youtube.com/watch?v=AmaHlsd4vUg)
+    
+    
+### Jetpack Compose
+   - [Follow this course](https://developer.android.com/courses/pathways/compose)
+   - [This Repository for more content](https://github.com/jetpack-compose/jetpack-compose-awesome)
+   
+### Clean Archticture
+- [Clean Architecture in Android](https://www.youtube.com/watch?v=8GQTrIY_fqA)  
+- [Modern Android App Architecture](https://developer.android.com/courses/pathways/android-architecture)
+- [Real-World Android by Tutorials "book"](https://www.kodeco.com/books/real-world-android-by-tutorials)
+
 
 ---
 

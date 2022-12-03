@@ -15,7 +15,7 @@ in the hands of 2.5 billion users, it has become essential for companies to deve
 Before starting with Android you have to know about Git and GitHub. *(If you know about them you can skip this section.)*
 
 ## Git and GitHub:
-<img src="https://user-images.githubusercontent.com/79477855/190231989-6ee5de1e-8fd0-443c-824d-d1a5aefa2e75.png" width="1200" height="500">
+![Android Github](images/Android%20Github.png)
 
 
 First,what is the difference between Git and GitHub?
@@ -75,7 +75,6 @@ You are ready to start your journey with Android but before starting with Androi
 ## Android basics:
 Now you are ready to start programming real Android apps for that you will need a good IDE to help you in your journey and I recommend you use Android studio.
 
-<img src="https://user-images.githubusercontent.com/79477855/192854794-44190269-2157-4bd0-9c3f-272eb4f00afd.jpeg" width="1200" height="550">
 
 We will start with the basics of the basics :sweat_smile:
 

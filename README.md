@@ -70,6 +70,23 @@ You are ready to start your journey with Android but before starting with Androi
   - Polymorphism
 - :clipboard: **Build a simple project with Java**
 
+### Algorithms
+books:
+- Grokking Algorithms (Entry).
+- Algorithms Unplugged (Advanced).
+
+- [Course ||Part1](https://www.coursera.org/learn/algorithms-part1)
+- [Course ||Part2](https://www.coursera.org/learn/algorithms-part2)
+
+### Data Structures
+- [Course](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+
+or 
+
+- [Course **Arabic**](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+
+You are all set up, now 🤓
+
 ---
 
 ## Android basics:
@@ -118,7 +135,6 @@ Then you will need to learn how to reuse portions of your app's UI by using frag
   - Using Drawer layout and Bottom Navigation
   - Using safe args
 - :clipboard: **Build a simple android application to apply your knowledge**
-
 ---
 
 ## Kotlin:
